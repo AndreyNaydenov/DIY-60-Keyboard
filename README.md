@@ -1,5 +1,14 @@
 # 60% DIY Keyboard
 
+# Final spec
+- [KDBfans DZ60](https://aliexpress.ru/item/32824638057.html) - 2905
+- [KDBfans Transparent Case](https://aliexpress.ru/item/32804361864.html?spm=a2g0v.12010612.8148356.2.1fa818f67aYm8b) - 1139
+- [Gateron Blue 68](https://aliexpress.ru/item/32980039972.html?spm=a2g0o.productlist.0.0.68313c979v2dwB&algo_pvid=6c7b213f-6e13-40d6-b4b9-fdc798b850e9&algo_expid=6c7b213f-6e13-40d6-b4b9-fdc798b850e9-0&btsid=0b8b034c15872058266066133ec8d9&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603) - 1343
+- [YMDK cyan plate + stabs](https://www.aliexpress.com/item/32562370416.html?spm=a2g0v.12010612.8148356.20.29527aa4Alvsoy) - 1376
+- [YMDK white double pudding caps](https://aliexpress.ru/item/32845885946.html?spm=a2g0v.12010612.8148356.8.c3bc3680L2wvyR) - 1460
+
+Total: 8223 RUB
+
 ## PCB 60% (QMK supported)
 - [bm60](https://www.aliexpress.com/item/4000467492920.html?spm=a2g0v.12010612.8148356.18.791f7919OK1pbS) - 3700(4000 with stabz) RUB
 - [dz60 shit](https://www.banggood.com/DZ60-60-Layout-PCB-Type-C-Interface-Custom-Mechanical-Keyboard-PCB-Board-p-1439768.html?rmmds=detail-left-hotproducts__7&cur_warehouse=CN) - 3200 RUB
@@ -27,7 +36,8 @@
 ## Key caps
 - [YMDK](https://aliexpress.ru/item/32813657693.html?spm=a2g0o.productlist.0.0.368275dd95G6Tm&algo_pvid=47f958dc-a553-49d9-9c50-e27390874d41&algo_expid=47f958dc-a553-49d9-9c50-e27390874d41-14&btsid=0b8b034c15872060941867581ec8d9&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_) 61 keys - 1230 RUB
 - [Feker D2](https://www.banggood.com/Feker-D2-61108-keys-DSA-Profile-PBT-Sublimation-Keycap-for-Anne-pro-2-Feker-01-RK-61-60-Mechanical-Keyboard-p-1626484.html?rmmds=search&ID=3874&cur_warehouse=CN) 61 keys - 1160 RUB
-
+- [YMDK carbon](https://aliexpress.ru/item/32866158777.html?spm=a2g0v.12010612.8148356.2.79603680rYdIpQ) - 1500 RUB
+- [YMDK gradient](https://aliexpress.ru/item/32914661729.html?spm=a2g0v.12010612.8148356.26.79603680rYdIpQ&cn=vk_ugc&from_content=wall_0_0&isdl=y&aff_short_key=bkkZKvWB) - 1500 RUB
 ## Alternatives
 - [gk61](https://aliexpress.ru/item/4000012170205.html?spm=a2g0o.productlist.0.0.79c17537M2Pxkv&algo_pvid=eaa4fc6e-4b37-4042-be8e-fb36b455e72d&algo_expid=eaa4fc6e-4b37-4042-be8e-fb36b455e72d-24&btsid=0b8b035a15872163024688889ec205&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_)
 - [anne pro 2](https://www.aliexpress.com/item/32917881549.html?spm=a2g0o.productlist.0.0.79c17537M2Pxkv&algo_pvid=eaa4fc6e-4b37-4042-be8e-fb36b455e72d&algo_expid=eaa4fc6e-4b37-4042-be8e-fb36b455e72d-7&btsid=0b8b035a15872163024688889ec205&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_)
